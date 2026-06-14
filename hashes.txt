@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un amor grabado en piedra
+
+This log tracks the cryptographic history and versioning for the song **Un amor grabado en piedra** (un-amor-grabado-en-piedra).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:14:40.138173 | `v1` | `dfef7dab40cbec1a43009f7088793ea3f9e675544778e3a27b087a6316992bbc` | `a556f4161ea8b6493bad24e3480e29793c5126e8a504e93156505bb1e62735b9` | `2026-06-14_un-amor-grabado-en-piedra-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
